@@ -1,0 +1,8 @@
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.csproj.AssemblyReference.cache
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.AssemblyInfoInputs.cache
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.AssemblyInfo.cs
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.csproj.CoreCompileInputs.cache
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.RazorAssemblyInfo.cache
+C:\Users\alberto.ziliani\repos\SignalR\Blazing-Pizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.RazorAssemblyInfo.cs

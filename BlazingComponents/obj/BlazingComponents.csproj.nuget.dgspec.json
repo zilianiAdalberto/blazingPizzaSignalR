@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\BlazingComponents\\BlazingComponents.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\BlazingComponents\\BlazingComponents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\BlazingComponents\\BlazingComponents.csproj",
+        "projectName": "BlazingComponents",
+        "projectPath": "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\BlazingComponents\\BlazingComponents.csproj",
+        "packagesPath": "C:\\Users\\alberto.ziliani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\BlazingComponents\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\NuGet.Config",
+          "C:\\Users\\alberto.ziliani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

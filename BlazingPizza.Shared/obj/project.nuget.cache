@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFn3za/uIIYhsiRvUgtHvzruSLhnx10qGiZI4YD0a+bpnOgEZl92gagYvX7Np/z3hWL1Iwz5KRbYZMVfPNoKHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alberto.ziliani\\repos\\SignalR\\Blazing-Pizza\\BlazingPizza.Shared\\BlazingPizza.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0\\microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.aspnetcore.components\\3.0.0\\microsoft.aspnetcore.components.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.0.0\\microsoft.aspnetcore.components.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.0.0\\microsoft.aspnetcore.components.forms.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.0.0\\microsoft.aspnetcore.components.web.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.0.0\\microsoft.aspnetcore.metadata.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\alberto.ziliani\\.nuget\\packages\\microsoft.jsinterop\\3.0.0\\microsoft.jsinterop.3.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BlazingPizza.ComponentsLibrary does not provide an inclusive lower bound for dependency Microsoft.AspNetCore.Components. An approximate best match of Microsoft.AspNetCore.Components 3.0.0 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.Components",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "BlazingPizza.ComponentsLibrary does not provide an inclusive lower bound for dependency Microsoft.AspNetCore.Components.Web. An approximate best match of Microsoft.AspNetCore.Components.Web 3.0.0 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.Components.Web",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
